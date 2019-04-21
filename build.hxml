@@ -1,0 +1,6 @@
+-cp src
+-D analyzer-optimize
+-main Main
+-js main.js
+-dce full
+-lib coconut.ui coconut.data coconut.react-core coconut.react-dom xDOM 
